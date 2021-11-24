@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+.width {
+    font-size: 18rm;
+}
+
+.thin-border {
+    border: black 1px solid;
+}
+
+
+.jumbo-bg-color {
+    background-image: linear-gradient(to right, rgb(4, 0, 255), rgb(255, 115, 0));
+    color: white;
+}
